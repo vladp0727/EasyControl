@@ -8,8 +8,7 @@ EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer
 <a href='https://huggingface.co/spaces/jamesliu1217/EasyControl'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
 <a href='https://huggingface.co/spaces/jamesliu1217/EasyControl_Ghibli'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Ghibli_Spaces-purple'></a>
 
-> *[Yuxuan Zhang](https://xiaojiu-z.github.io/YuxuanZhang.github.io/), [Yirui Yuan](https://github.com/Reynoldyy), [Yiren Song](https://scholar.google.com.hk/citations?user=L2YS0jgAAAAJ), [Haofan Wang](https://haofanwang.github.io/), [Jiaming Liu](https://scholar.google.com/citations?user=SmL7oMQAAAAJ&hl=en)*
-> <br>
+ <br>
 > Tiamat AI, ShanghaiTech University, National University of Singapore, Liblib AI
 
 <img src='assets/teaser.jpg'>
@@ -400,9 +399,7 @@ demo.queue().launch()
 ## Disclaimer
 The code of EasyControl is released under [Apache License](https://github.com/Xiaojiu-Z/EasyControl?tab=Apache-2.0-1-ov-file#readme) for both academic and commercial usage. Our released checkpoints are for research purposes only. Users are granted the freedom to create images using this tool, but they are obligated to comply with local laws and utilize it responsibly. The developers will not assume any responsibility for potential misuse by users.
 
-## Hiring/Cooperation
-- **2025-04-03**: If you are interested in EasyControl and beyond, or if you are interested in building 4o-like capacity (in a low-budget way, of course), we can collaborate offline in Shanghai/Beijing/Hong Kong/Singapore or online.
-Reach out: **jmliu1217@gmail.com (wechat: jiaming068870)**
+
 
 ## Citation
 ```bibtex
