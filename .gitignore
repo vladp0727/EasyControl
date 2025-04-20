@@ -1,0 +1,13 @@
+*.pyc
+*.safetensors
+
+.DS_Store
+venv/
+training_data/
+huggingface/
+models/
+wandb/
+cache/
+__pycache__/
+datasets/
+pretrained_lora_models/
